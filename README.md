@@ -94,7 +94,6 @@ Edit
 
 <!-- Replace with actual images you send -->
 ![Signup Form](images/signup-form.png)
-<img width="958" height="434" alt="EC2-dashbord" src="https://github.com/user-attachments/assets/98c0cc9e-d460-4c67-966d-78ad41947c71" />
 
 
 ---
