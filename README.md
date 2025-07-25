@@ -99,9 +99,4 @@ Edit
 
 ---
 
-## 🧪 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/signup-aws-app.git
-   cd signup-aws-app
