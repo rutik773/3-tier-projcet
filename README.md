@@ -27,7 +27,8 @@ Copy
 Edit
 
 <!-- Add architecture image here -->
-![Architecture Diagram](images/aws-architecture.png)
+<img width="958" height="434" alt="EC2-dashbord" src="https://github.com/user-attachments/assets/5bb98ea4-8d65-4426-bb70-00c3f660d2f2" />
+
 
 ---
 
