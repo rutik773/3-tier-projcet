@@ -1,23 +1,4 @@
-# 🛡️ Secure Signup Application on AWS (Multi-Tier Architecture)
 
-A simple and secure user signup system deployed on AWS using a multi-tier architecture. This project demonstrates best practices for web application deployment using private/public subnets, NGINX as a reverse proxy, and RDS as a managed database service.
-
----
-
-## 🔧 Tech Stack
-
-- **Frontend**: HTML5, CSS
-- **Backend**: PHP (`submit.php`)
-- **Web Server**: NGINX (in App Tier)
-- **Database**: Amazon RDS (MySQL/PostgreSQL) in DB Tier
-- **Cloud Provider**: AWS
-- **Architecture**: 3-tier VPC (Public & Private Subnets)
-
----
-
-## 🧠 Project Architecture
-
-User ↔️ Internet ↔️ NGINX (App Tier - Private Subnet)
 ↕
 ↕
 Amazon RDS (DB Tier - Private Subnet)
