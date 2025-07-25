@@ -19,7 +19,6 @@ A simple and secure user signup system deployed on AWS using a multi-tier archit
 
 User ↔️ Internet ↔️ NGINX (App Tier - Private Subnet)
 ↕
-PHP Application
 ↕
 Amazon RDS (DB Tier - Private Subnet)
 
